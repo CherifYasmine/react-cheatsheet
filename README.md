@@ -135,7 +135,7 @@ this.element = React.createRef();
 this.element.current.focus();
 ```
 
-Tip: References works for the class component but not for function component (unless you use useRef hook, see [Other hooks](https://github.com/delprzemo/react-cheatsheet#other-hooks "other-hooks") )
+Tip: References works for the class component but not for function component (unless you use useRef hook, see [Other hooks](https://github.com/CherifYasmine/react-cheatsheet#other-hooks "other-hooks") )
 
 Components
 =================
