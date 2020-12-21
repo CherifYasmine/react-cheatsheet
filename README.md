@@ -728,6 +728,8 @@ useEffect(() => {
 
 **useContext hook**
 
+Hooks for context implementation. See [Context](https://github.com/CherifYasmine/react-cheatsheet#context "context")
+
 Parent:
 ```jsx
 const CounterContext = React.createContext(counter);
